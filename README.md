@@ -287,6 +287,17 @@ A curated list of awesome resources in medical vision-language models (**in chro
 *Jinpeng Hu, Zhihong Chen, Yang Liu, Xiang Wan, Tsung-Hui Chang.*<br>
  [[PDF](https://arxiv.org/abs/2210.08303)] 
 
+   **Bootstrapping Large Language Models for Radiology Report Generation.** [Mar., 2024] [AAAI, 2024].<br>
+*Chang Liu, Yuanhe Tian, Weidong Chen, Yan Song, Yongdong Zhang.*<br>
+ [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/29826)] 
+
+   **S2D-Align: Shallow-to-Deep Auxiliary Learning for Anatomically-Grounded Radiology Report Generation.** [Nov., 2025] [AAAI, 2026].<br>
+*Jiechao Gao, Chang Liu, Yuangang Li.*<br>
+ [[PDF](https://arxiv.org/abs/2511.11066)] 
+
+   **Anchoring LLM-based Chest X-ray Report Generation via Diffusion Language Planning.** [NeurIPS, 2026].<br>
+*Jiechao Gao, Chang Liu, Yuandong Pan, Ying Liu, Michael Lepech.*<br>
+
 # Explaination, Bias, Noise, and Robustness
 
    **CheXpert++: Approximating the CheXpert labeler for Speed,Differentiability, and Probabilistic Output.** [Jun., 2020] [ML4H, 2020].<br>
